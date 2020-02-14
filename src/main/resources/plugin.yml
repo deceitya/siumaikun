@@ -1,0 +1,8 @@
+name: siumaikun
+main: me.deceitya.siumaikun.SiumaikunPlugin
+version: 1.0.0
+api: 1.0.9
+load: POSTWORLD
+author: deceitya
+description: しゅうまい君
+website: 'https://github.com/deceitya/siumaikun'
